@@ -1,0 +1,11 @@
+##########################################
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ##########################################
+#
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+
+ZCZC 00 10 L01 SCELE : enroll course 
+ZCZC 00 5 L02 Siak-NG : checking the IRS
+ZCZC 00 20 L03 SCELE : research for MPPI
