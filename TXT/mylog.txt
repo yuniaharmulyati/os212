@@ -9,3 +9,4 @@
 ZCZC 00 10 L01 SCELE : enroll course 
 ZCZC 00 5 L02 Siak-NG : checking the IRS
 ZCZC 00 20 L03 SCELE : research for MPPI
+ZCZC W00 100 L02 Zoom : First Meeting OS
