@@ -12,3 +12,9 @@ ZCZC 00 20 L03 SCELE : research for MPPI
 ZCZC W00 100 L02 Zoom : First Meeting OS
 ZCZC W00 15 L08 Asking how to use github 
 ZCZC W00 100 L02 Zoom : First Meeting OS with Pak Anwar
+ZCZC W01 5 L22 Quiz : Week 0 
+ZCZC W01 30 L82 Reading slides in OS website
+ZCZC W01 45 L32 trying to understand OS material in YouTube
+ZCZC W01 120 L31 trying to import in my Virtual Box, but it's not working
+ZCZC W01 90 L08 asking Teaching Assistant : "how to solve my problem in Virtual Box"
+ZCZC W01 150 L11 Assignment in Week-1
