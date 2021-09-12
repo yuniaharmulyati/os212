@@ -11,3 +11,4 @@ ZCZC 00 5 L02 Siak-NG : checking the IRS
 ZCZC 00 20 L03 SCELE : research for MPPI
 ZCZC W00 100 L02 Zoom : First Meeting OS
 ZCZC W00 15 L08 Asking how to use github 
+ZCZC W00 100 L02 Zoom : First Meeting OS with Pak Anwar
