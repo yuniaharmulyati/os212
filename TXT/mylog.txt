@@ -18,3 +18,8 @@ ZCZC W01 45 L32 trying to understand OS material in YouTube
 ZCZC W01 120 L31 trying to import in my Virtual Box, but it's not working
 ZCZC W01 90 L08 asking Teaching Assistant : "how to solve my problem in Virtual Box"
 ZCZC W01 150 L11 Assignment in Week-1
+ZCZC W02 100 L02 Zoom : Studying with Pak Anwar
+ZCZC W02 20 L22 Quiz : Week 1
+ZCZC W02 30 L32 YouTube : studying
+ZCZC W02 100 L02 Zoom : Studying with Pak Anwar
+ZCZC W02 210 L12 doing Assignment 02
