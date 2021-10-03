@@ -6,7 +6,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC 00 10 L01 SCELE : enroll course 
+ZCZC 00 10 L01 SCELE : enroll course   
 ZCZC 00 5 L02 Siak-NG : checking the IRS
 ZCZC 00 20 L03 SCELE : research for MPPI
 ZCZC W00 100 L02 Zoom : First Meeting OS
@@ -29,4 +29,12 @@ ZCZC W03 100 L02 Zoom : Studying with Pak Anwar
 ZCZC W03 60 L32 YouTube : studying OS
 ZCZC W03 30 L02 Zoom : Studying with Pak Anwar
 ZCZC W03 150 L12 doing Assignment 03
+ZCZC W04 5 L22 Quiz : Week 3
+ZCZC W04 100 L02 Zoom Studying with Pak Anwar
+ZCZC W04 30 L82 Reading slides
+ZCZC W04 120 L12 doing Assignment 04
+ZCZC W04 180 L63 Fixing VM
+ZCZC W04 100 L02 Zoom Studying with Pak Anwar
+ZCZC W04 60 L32 YouTube : studying OS
+ZCZC W04 100 L12 doing Assignment 04 - update my log and submitting
 
