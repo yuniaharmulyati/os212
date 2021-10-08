@@ -37,4 +37,11 @@ ZCZC W04 180 L63 Fixing VM
 ZCZC W04 100 L02 Zoom Studying with Pak Anwar
 ZCZC W04 60 L32 YouTube : studying OS
 ZCZC W04 100 L12 doing Assignment 04 - update my log and submitting
-
+ZCZC W05 5 L22 Quiz : Week 4
+ZCZC W05 60 L82 Reading slides
+ZCZC W05 100 L02 Zoom : Studying with Pak Anwar
+ZCZC W05 30 L32 Youtube : Studying OS
+ZCZC W05 30 L82 Reading slides to undertand better
+ZCZC W05 60 L63 Fixing VM
+ZCZC W05 100 L02 Zoom : Studying with Pak Anwar
+ZCZC W05 140 L12 doing Assignment 05
