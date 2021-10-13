@@ -68,6 +68,22 @@ permalink: /LINKS/
 20. https://serversuit.com/community/technical-tips/view/how-does-linux-handle-ram.html  
 ~ Informasi pada website ini menjelaskan tentang bagaimana linux mengalokasikan memorinya.   
 
+#Week-6
+21. https://www.geeksforgeeks.org/fork-practice-questions/  
+~ Link ini memberikan informasi terkait pertanyaan seputar fork  
+
+22. https://www.tutorialspoint.com/multithreading-in-c  
+~ Halaman ini memberikan tutorial untuk multithreading pada bahasa C  
+
+23. https://blog.mindorks.com/what-are-the-differences-between-dalvik-and-art  
+~ Website ini menjelaskan tentang perbedaan antara Dalvik dan ART  
+
+24. https://www.youtube.com/watch?v=0KAGazeMZ2o  
+~ Video untuk mempelajari tentang Multithreading  
+
+25. https://techterms.com/definition/deadlock  
+~ Jika penasaran dengan deadlock, link ini merupakan jawabannya  
+
 Terima kasih sudah membaca!  
-#SharingIsCaring    
+#SharingIsCaring  ❤️  
 - Yunia Harmulyati  
