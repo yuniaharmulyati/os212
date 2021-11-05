@@ -84,6 +84,23 @@ permalink: /LINKS/
 25. https://techterms.com/definition/deadlock  
 ~ Jika penasaran dengan deadlock, link ini merupakan jawabannya  
 
+#Week-7    
+26. http://www2.cs.uregina.ca/~hamilton/courses/330/notes/synchro/node3.html  
+~ Link ini memberikan penjelasan tentang cara menyelesaikan beberapa masalah yang bersangkutan dengan OS.  
+
+27. https://stackoverflow.com/questions/34524/what-is-a-mutex  
+~ Berikut adala salah satu hasil diskusi mengenai mutex  
+
+28. http://www.csc.villanova.edu/~mdamian/threads/posixsem.html  
+~ Link ini menunjukkan cara mengimplementasikan semaphore pada program yang kita miliki  
+
+29. https://www.studytonight.com/operating-system/process-synchronization  
+~ Link ini menjelaskan proses synchronization dalam OS  
+
+30. https://www.geeksforgeeks.org/monitors-in-process-synchronization/  
+~ Melanjuti link sebelumnya, link ini akan menjelaskan tentang monitors dalam proses synchronization  
+
+
 Terima kasih sudah membaca!  
 #SharingIsCaring  ❤️  
 - Yunia Harmulyati  
