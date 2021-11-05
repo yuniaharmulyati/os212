@@ -22,17 +22,17 @@ ZCZC W02 100 L02 Zoom : Studying with Pak Anwar
 ZCZC W02 20 L22 Quiz : Week 1
 ZCZC W02 30 L32 YouTube : studying OS
 ZCZC W02 100 L02 Zoom : Studying with Pak Anwar
-ZCZC W02 210 L12 doing Assignment 02
+ZCZC W02 210 L12 doing Assignment WEEK02
 ZCZC W03 20 L22 Quiz : Week 2
 ZCZC W03 30 L82 Reading slides
 ZCZC W03 100 L02 Zoom : Studying with Pak Anwar
 ZCZC W03 60 L32 YouTube : studying OS
 ZCZC W03 30 L02 Zoom : Studying with Pak Anwar
-ZCZC W03 150 L13 doing Assignment 03
+ZCZC W03 150 L13 doing Assignment WEEK03
 ZCZC W04 20 L22 Quiz : Week 3
 ZCZC W04 100 L02 Zoom Studying with Pak Anwar
 ZCZC W04 30 L82 Reading slides
-ZCZC W04 120 L14 doing Assignment 04
+ZCZC W04 120 L14 doing Assignment WEEK04
 ZCZC W04 180 L63 Fixing VM
 ZCZC W04 100 L02 Zoom Studying with Pak Anwar
 ZCZC W04 60 L32 YouTube : studying OS
@@ -44,12 +44,12 @@ ZCZC W05 30 L32 Youtube : Studying OS
 ZCZC W05 30 L82 Reading slides to undertand better
 ZCZC W05 60 L63 Fixing VM
 ZCZC W05 100 L02 Zoom : Studying with Pak Anwar
-ZCZC W05 140 L15 doing Assignment 05
+ZCZC W05 140 L15 doing Assignment WEEK05
 ZCZC W06 20 L22 Quiz : Week 5
 ZCZC W06 130 L32 Youtube : Studying OS
 ZCZC W06 60 L82 Reading Slides + Studying OS
 ZCZC W06 60 L32 Youtube : Studying OS to understand better
-ZCZC W06 80 L16 doing some of Assignment 06
+ZCZC W06 80 L16 doing some of Assignment WEEK06
 ZCZC W06 100 L02 Zoom : Studying with Pak Anwar
 ZCZC W06 45 L32 Youtube : Studying OS
 ZCZC W06 60 L12 doing Assignment 06
@@ -63,4 +63,4 @@ ZCZC W07 60 L32 Youtube : Studying OS
 ZCZC W07 100 L02 Zoom : Studying with Pak Anwar
 ZCZC W07 50 L32 Youtube : Studying OS
 ZCZC W07 35 L82 Reading slides
-ZCZC W07 220 L17 doing Assignment 07
+ZCZC W07 220 L17 doing Assignment WEEK07  
