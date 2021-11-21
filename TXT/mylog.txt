@@ -64,3 +64,19 @@ ZCZC W07 100 L02 Zoom : Studying with Pak Anwar
 ZCZC W07 50 L32 Youtube : Studying OS
 ZCZC W07 35 L82 Reading slides
 ZCZC W07 220 L17 doing Assignment WEEK07  
+ZCZC W08 20 L22 Quiz : Week 7
+ZCZC W08 100 L02 Zoom : Studying with Pak Anwar
+ZCZC W08 60 L32 Youtube : Studying OS
+ZCZC W08 360 L83 Fixing Hardware Problems
+ZCZC W08 600 L18 Trying to do the Assignment WEEK08, but VM can't work
+ZCZC W08 300 L60 Restore Computer after crash
+ZCZC W08 360 L62 Backup Virtual Box - but it's not working
+ZCZC W08 300 L18 still trying to do the assignment WEEK08 - failed
+ZCZC W09 20 L22 Quiz : Week 8
+ZCZC W09 100 L02 Zoom : Studying with Pak Anwar
+ZCZC W09 720 L18 Trying to do the Assignment WEEK 09 - failed
+ZCZC W09 420 L21 Trying to do the Assignment WEEK 09 in LAB FASILKOM UI - failed
+ZCZC W09 450 L21 Trying to do the Assignment WEEK 09 with Friend's Laptop - failed
+ZCZC W09 60 L08 Asdos : Konsultasi masalah yang dihadapi di OS
+
+
