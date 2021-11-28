@@ -78,5 +78,11 @@ ZCZC W09 720 L18 Trying to do the Assignment WEEK 09 - failed
 ZCZC W09 420 L21 Trying to do the Assignment WEEK 09 in LAB FASILKOM UI - failed
 ZCZC W09 450 L21 Trying to do the Assignment WEEK 09 with Friend's Laptop - failed
 ZCZC W09 60 L08 Asdos : Konsultasi masalah yang dihadapi di OS
-
-
+ZCZC W10 20 L22 Quiz : Week 9 
+ZCZC W10 420 L19 Trying to do the Assignment WEEK 10
+ZCZC W10 450 L21 Trying to do the Assignment WEEK 10 in LAB Fasilkom UI - failed (day 1)
+ZCZC W10 570 L21 Trying to do the Assignment WEEK 10 in LAB Fasilkom UI - failed (day 2)
+ZCZC W10 240 L19 Trying to do the Assignment WEEK 10 with Friend's VM (day - 1) - failed
+ZCZC W10 780 L19 Trying to do the Assignment WEEK 10 with Friend's VM (day - 2) - failed
+ZCZC W10 360 L21 Trying to solve error - failed
+ZCZC W10 120 L08 Asdos : Asking to solve the problem
