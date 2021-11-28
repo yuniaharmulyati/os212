@@ -97,34 +97,43 @@ permalink: /LINKS/
     ~ Link ini menunjukkan cara mengimplementasikan semaphore pada program yang kita miliki
 
 29. https://www.studytonight.com/operating-system/process-synchronization  
-    ~ Link ini menjelaskan proses synchronization dalam OS
+    ~ Link ini menjelaskan proses synchronization dalam OS  
 
-30. https://www.geeksforgeeks.org/monitors-in-process-synchronization/  
-    ~ Melanjuti link sebelumnya, link ini akan menjelaskan tentang monitors dalam proses synchronization
+30. https://www.geeksforgeeks.org/monitors-in-process-synchronization/    
+    ~ Melanjuti link sebelumnya, link ini akan menjelaskan tentang monitors dalam proses synchronization    
 
-#Week-8 31. https://www.quora.com/What-is-meant-by-CPU-Burst-and-I-O-Burst
-~ Website ini menjelaskan tentang CPU Burst
+#Week-8 31. https://www.quora.com/What-is-meant-by-CPU-Burst-and-I-O-Burst    
+~ Website ini menjelaskan tentang CPU Burst  
 
-32. https://techgenix.com/processor-affinity/
-    ~ Link ini menjelaskan tentang processoe affinity
+32. https://techgenix.com/processor-affinity/  
+    ~ Link ini menjelaskan tentang processoe affinity  
 
-33. https://www.techopedia.com/definition/4197/load-balancing
-    ~ Penjelasan yang baik tentang Load Balancing ada di sini!
+33. https://www.techopedia.com/definition/4197/load-balancing  
+    ~ Penjelasan yang baik tentang Load Balancing ada di sini!  
 
-34. https://www.kernel.org/doc/html/v4.18/vm/numa.html
-    ~ Website ini menjelaskan tentang NUMA
+34. https://www.kernel.org/doc/html/v4.18/vm/numa.html  
+    ~ Website ini menjelaskan tentang NUMA  
 
-35. https://stackoverflow.com/questions/17308956/differences-between-hard-real-time-soft-real-time-and-firm-real-time
-    ~ Penjelasan tentang beberapa hal penting dalam soal OS
+35. https://stackoverflow.com/questions/17308956/differences-between-hard-real-time-soft-real-time-and-firm-real-time  
+    ~ Penjelasan tentang beberapa hal penting dalam soal OS   
 
-#Week-9 36. https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=8
-~ Video berisi arahan untuk mengerjakan weekly assignment OS
+#Week-9   
+36. https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=8    
+~ Video berisi arahan untuk mengerjakan weekly assignment OS  
 
-37. https://www.linuxfromscratch.org/lfs/view/stable/chapter05/binutils-pass1.html
-    ~ Sebuah arahan step-by-step untuk mengerjakan weekly assignment OS
+37. https://www.linuxfromscratch.org/lfs/view/stable/chapter05/binutils-pass1.html  
+    ~ Sebuah arahan step-by-step untuk mengerjakan weekly assignment OS    
 
-38. https://www.linuxfromscratch.org/lfs/view/stable/chapter05/gcc-pass1.html
-    ~ Berisi penjelasan serta arahan untuk mengerjakan weekly assignment OS
+38. https://www.linuxfromscratch.org/lfs/view/stable/chapter05/gcc-pass1.html  
+    ~ Berisi penjelasan serta arahan untuk mengerjakan weekly assignment OS    
+
+#Week-10   
+39. https://www.linuxquestions.org/questions/linux-from-scratch-13/system-h-selinux-selinux-h-no-such-file-or-directory-567750/   
+~Apabila menemukan eror pada selinux.h, mungkin Anda dapat menggunakan link ini sebagai salah satu solusinya. Semoga membantu!
+
+40. https://github.com/SELinuxProject/selinux/tree/master/libselinux/include/selinux  
+~ Final resort! Sebenarnya literally maksa, tetapi bisa dicoba apabila link #39 belum bisa membantu.  
+
 
 Terima kasih sudah membaca!  
 #SharingIsCaring ❤️
